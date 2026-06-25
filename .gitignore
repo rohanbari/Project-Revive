@@ -1,0 +1,20 @@
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build output
+build/
+dist/
+out/
+*.tmp
+*.log
+
+# Optional local data
+*.bak
+*.cache
