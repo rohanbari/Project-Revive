@@ -35,4 +35,4 @@ Before contributing, read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Security
 
-If you find a security issue or accidental exposure of private material, follow [SECURITY.md](SECURITY.md).
+If you find a security issue or accidental exposure of private material, follow [SECURITY.md](SECURITY.md). Additionally, we always credit authentic creators of assets we collected from.
